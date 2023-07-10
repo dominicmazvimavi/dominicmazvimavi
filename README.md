@@ -8,8 +8,8 @@
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [Tutorial How to create chatbot based on the data you feed |OpenAI]
-- 
+- Tutorial How to create chatbot based on the data you feed |OpenAI
+  
 
 <h2>📄 Certifications:</h2>
 
