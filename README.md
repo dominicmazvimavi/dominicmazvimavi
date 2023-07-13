@@ -4,6 +4,7 @@
 
 
  - [Create financial assistant chat box with OpenAI API on your montly bank statements](https://github.com/joshmadakor1/Algorithms-Practice)
+ - [ANN MNIST Project powered by Tensorflow 2.0](https://github.com/dominicmazvimavi/tf2annmnist)
 
 
 <h2>📺 Popular YouTube Videos</h2>
