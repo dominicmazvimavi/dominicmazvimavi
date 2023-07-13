@@ -7,6 +7,7 @@
  - [ANN MNIST Project powered by Tensorflow 2.0](https://github.com/dominicmazvimavi/tf2annmnist)
  - [CNN Fashion MNIST Project using Tensorflow 2.0](https://github.com/dominicmazvimavi/tf2cnnfashionmnist/tree/main)
  - [CNN CIFAR Project with TensorFlow: Data Augmentation and Batch Normalization](https://github.com/dominicmazvimavi/tf2cnncifar)
+ - [Time Series Predictions with Autoregressive Linear Model](https://github.com/dominicmazvimavi/AutoregressiveLinearModelPrediction)
 
 
 <h2>📺 Popular YouTube Videos</h2>
