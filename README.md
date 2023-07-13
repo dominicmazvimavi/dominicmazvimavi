@@ -6,6 +6,7 @@
  - [Create financial assistant chat box with OpenAI API on your montly bank statements](https://github.com/joshmadakor1/Algorithms-Practice)
  - [ANN MNIST Project powered by Tensorflow 2.0](https://github.com/dominicmazvimavi/tf2annmnist)
  - [CNN Fashion MNIST Project using Tensorflow 2.0](https://github.com/dominicmazvimavi/tf2cnnfashionmnist/tree/main)
+ - [CNN CIFAR Project with TensorFlow: Data Augmentation and Batch Normalization](https://github.com/dominicmazvimavi/tf2cnncifar)
 
 
 <h2>📺 Popular YouTube Videos</h2>
