@@ -12,7 +12,7 @@
 <h2>👨‍💻 Power BI Projects:</h2> 
 
 
-- Asset and Liability Monitor Model
+- [Asset and Liability Monitor Model](https://github.com/dominicmazvimavi/pbiassetliab)
 - Model Performance Monitoring Model 
 
 <h2>📺 Popular YouTube Videos</h2>
