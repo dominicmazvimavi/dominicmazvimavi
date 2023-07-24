@@ -9,6 +9,9 @@
  - [CNN CIFAR Project with TensorFlow: Data Augmentation and Batch Normalization](https://github.com/dominicmazvimavi/tf2cnncifar)
  - [Time Series Predictions with Autoregressive Linear Model](https://github.com/dominicmazvimavi/AutoregressiveLinearModelPrediction)
 
+<h2>👨‍💻 Power BI Projects:</h2>
+- [Asset and Liability Monitor Model] 
+- [Model Performance Monitoring Model] 
 
 <h2>📺 Popular YouTube Videos</h2>
 
