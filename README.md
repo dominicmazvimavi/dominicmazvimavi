@@ -1,6 +1,6 @@
 <h1>Hi, I'm Dominic! </h1>
 
-<h2>👨‍💻 Deep Learning Projects:</h2>
+<h2>👨‍💻 Machine Learning Projects:</h2>
 
 
  - [Create financial assistant chat box with OpenAI API on your montly bank statements](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -8,6 +8,9 @@
  - [CNN Fashion MNIST Project using Tensorflow 2.0](https://github.com/dominicmazvimavi/tf2cnnfashionmnist/tree/main)
  - [CNN CIFAR Project with TensorFlow: Data Augmentation and Batch Normalization](https://github.com/dominicmazvimavi/tf2cnncifar)
  - [Time Series Predictions with Autoregressive Linear Model](https://github.com/dominicmazvimavi/AutoregressiveLinearModelPrediction)
+
+<h2>👨‍💻 Natural Language Processing (NLP) Projects:</h2>
+- [Build a Large Language Model with LangChain](https://github.com/dominicmazvimavi/OpenAIChatBot)
 
 <h2>👨‍💻 Power BI Projects:</h2> 
 
